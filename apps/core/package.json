@@ -1,0 +1,14 @@
+{
+  "name": "sts",
+  "productName": "Slay the Spire: The Board Game",
+  "description": "",
+  "version": "0.0.1",
+  "license": "GPL-3.0-only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "packageManager": "pnpm@10.30.3"
+}

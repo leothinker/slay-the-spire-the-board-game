@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx scripts/dev.ts",
+    "build": "tsx scripts/build.ts",
+    "lint": "biome check --write --unsafe --no-errors-on-unmatched --files-ignore-unknown=true ./"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.16"
+  }
+}
